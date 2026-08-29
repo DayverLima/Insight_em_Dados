@@ -1,0 +1,12 @@
+LICENÇA E ATRIBUIÇÃO DE DADOS
+
+Dataset: ds_salaries
+Fonte original: Kaggle
+
+Este conjunto de dados é disponibilizado sob a licença Open Database License (ODbL) v1.0.
+
+O que isso significa de forma prática?
+Você é livre para compartilhar, criar e adaptar este banco de dados para os seus próprios projetos. No entanto, sob a regra "Share-Alike" (Compartilha-Igual), caso você faça alterações e redistribua este banco de dados, essa nova versão também deverá ser distribuída sob a mesma licença ODbL. Além disso, é necessário dar os devidos créditos aos autores originais.
+
+Para ler os termos completos da licença, acesse: 
+https://opendatacommons.org/licenses/odbl/1-0/
