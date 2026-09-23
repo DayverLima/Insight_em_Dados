@@ -1,0 +1,12 @@
+LICENÇA E ATRIBUIÇÃO DE DADOS
+
+Dataset: Top Indian Places to Visit
+Fonte original: https://www.kaggle.com/datasets/saketk511/travel-dataset-guide-to-indias-must-see-places/code
+
+Este conjunto de dados é disponibilizado sob a licença Open Database License (ODbL) v1.0, seguindo os padrões de compartilhamento de dados abertos.
+
+O que isso significa de forma prática?
+Você é livre para compartilhar, criar e adaptar este banco de dados para os seus próprios projetos, inclusive para compor o seu portfólio. No entanto, sob a regra "Share-Alike" (Compartilha-Igual), caso você faça alterações estruturais na base e a redistribua, essa nova versão também deverá ser distribuída sob a mesma licença ODbL. Além disso, é sempre necessário dar os devidos créditos aos autores originais que compilaram os dados no Kaggle.
+
+Para ler os termos completos da licença, acesse:
+https://opendatacommons.org/licenses/odbl/1-0/
